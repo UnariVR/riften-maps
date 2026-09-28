@@ -1,0 +1,17 @@
+{
+  "name": "The Rift",
+  "tileSize": 256,
+  "minZoom": 0,
+  "maxZoom": 7,
+  "width": 21504,
+  "height": 17920,
+  "format": "jpg",
+  "attribution": "Map imagery: UESP (gamemap.uesp.net) \u00b7 The Elder Scrolls V: Skyrim \u00a9 Bethesda Softworks",
+  "source": {
+    "uespZoom": 8,
+    "col0": 136,
+    "row0": 108,
+    "cols": 84,
+    "rows": 70
+  }
+}
